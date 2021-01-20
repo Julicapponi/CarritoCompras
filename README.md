@@ -1,4 +1,4 @@
-### Hi. Este es un simple proyecto de Carrito de compras 👋
+### Hola, este es un simple proyecto de Carrito de compras 👋
 
 - HERRAMIENTAS UTILIZADAS
 - LENGUAJE DE PROGRAMACIÓN: JAVA
