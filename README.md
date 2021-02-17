@@ -1,6 +1,6 @@
 ### Hola 👋 este es un simple proyecto de Carrito de compras.
 
-### Technologies utilizadas
+### Technologias utilizadas
 - LENGUAJE DE PROGRAMACIÓN: JAVA
 - IDE: Eclipse
 - SERVIDOR: Tomcat 9.0
