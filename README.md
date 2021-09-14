@@ -1,4 +1,4 @@
-### Hola 👋 este es un simple proyecto de Carrito de compras.
+### Hola 👋 este es un proyecto de sistemas de ventas (No comercializado)
 
 ### Technologias utilizadas
 - LENGUAJE DE PROGRAMACIÓN: JAVA
