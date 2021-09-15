@@ -1,7 +1,7 @@
 ### Hola 👋 este es un proyecto de sistemas de ventas (No comercializado)
 
 ### Technologias utilizadas
- <p>
+
 BACKEND:
 - LENGUAJE DE PROGRAMACIÓN: JAVA
 - IDE: Eclipse
@@ -12,7 +12,7 @@ FRONT:
 - CSS
 - JAVASCRIPT
 - BOOTSTRAP
-</p>
+
 
   
   
